@@ -1,0 +1,6 @@
+{
+  "name": "ORVEXIS AI",
+  "description": "Beyond the Mind. Beyond Limits. Next-generation personal AI assistant platform featuring real-time intelligent conversations, multi-modal reasoning, structured thinking, voice interactions, code studio, and memory systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
